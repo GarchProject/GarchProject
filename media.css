@@ -1,0 +1,114 @@
+@media screen and (max-width: 900px) {
+  * {
+    box-sizing: border-box;
+  }
+
+  h4 {
+    max-width: 460px;
+  }
+
+
+  .list-container {
+    width: 180px;
+  }
+
+  .list-container .list-item {
+    font-size: 16px;
+    padding: 5px 30px;
+  }
+
+
+
+  .header {
+    padding: 15px;
+  }
+
+  .more-icon {
+    height: 15px !important;
+  }
+
+  .Project-container {
+    height: 35px;
+  }
+
+  .Project-container-category {
+    font-size: 12px;
+    padding-right: 0px;
+    width: 25%;
+  }
+
+  .Project-container-title {
+    font-size: 12px;
+    padding-right: 0px;
+    min-width: 180px;
+    width: 45%;
+  }
+
+  .Project-container-date {
+    display: none;
+  }
+
+  .Project-container-subtitle {
+    font-size: 12px;
+    padding-right: 0px;
+    width: 30%;
+  }
+
+  .Project-container-info {
+    display: none;
+  }
+
+  .Event-container {
+    height: 35px;
+  }
+
+  .Event-container-category {
+    font-size: 12px;
+    padding-right: 0px;
+    width: 25%;
+  }
+
+  .Event-container-title {
+    font-size: 12px;
+    padding-right: 0px;
+    width: 45%;
+  }
+
+  .Event-container-date {
+    display: none;
+  }
+
+  .Event-container-subtitle {
+    font-size: 12px;
+    padding-right: 0px;
+    width: 30%;
+  }
+
+  .Event-container-info {
+    display: none;
+  }
+
+  .About-link {
+    width: 25%;
+    justify-content: center;
+    font-size: 14px;
+  }
+
+
+  .contents-main-container {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+
+  .link {
+    text-align: center;
+  }
+
+  .profile{
+    max-width: 300px;
+  }
+
+  .inner{
+    max-width: 450px;
+  }
