@@ -17,9 +17,3 @@ function copyUrl(){
 	  alert("주소가 복사되었습니다!");
 	})
 }
-
-function openImg() {
-  var image = document.getElementById('small_img');
-  var source = image.src;
-  window.open(source);
-}
