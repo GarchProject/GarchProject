@@ -112,3 +112,8 @@
   .inner{
     max-width: 450px;
   }
+
+  .event_small_img{
+    max-width: 400px;
+    max-height: 400px;
+    }
