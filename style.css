@@ -124,6 +124,7 @@ body {
 }
 
 .close-button{
+  font-family: sans-serif;
   cursor: pointer;
   z-index: 1000;
   display: block;
