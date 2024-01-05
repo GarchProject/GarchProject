@@ -22,14 +22,6 @@ h1 {
   margin: 2em auto;
 }
 
-h4 {
-  font-family:sans-serif;
-  font-size: 14px;
-  color: #3F3F3F;
-  max-width: 600px;
-  text-align: right;
-  float:right;
-}
 
 h3 {
   font-family:sans-serif;
@@ -348,8 +340,8 @@ body {
 }
 
 
- .About-desc {
-   font-size: 12px;
+.About-desc {
+  font-size: 12px;
 }
 
 .About-container {
@@ -385,7 +377,7 @@ body {
 
 .contents-main-container {
   position: relative;
-  padding-top: 90px;
+  padding-top: 100px;
   padding-left: 25%;
   padding-right: 25%;
   padding-bottom: 100px;
@@ -394,13 +386,13 @@ body {
   overflow: hidden;
   flex-direction: column;
   background: #E0E2D8;
+  justify-content: center;
 }
 
 .contents-title {
   font-family:sans-serif;
   font-size: 28px;
   color: #000000;
-  padding-bottom: 20px;
   right: 0;
   display: flex;
   align-items: center;
@@ -410,6 +402,18 @@ body {
 
 .contents-container {
   max-width: 800px;
+}
+
+
+.intro{
+  font-family:sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #3F3F3F;
+  text-align: right;
+  max-width: 650px;
+  padding-bottom: 80px;
+  float: right;
 }
 
 .interviewer {
@@ -423,6 +427,23 @@ body {
   font-family:sans-serif;
   text-indent: 1em;
   padding-bottom: 20px;
+}
+
+.highlight{
+  font-family:sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #3F3F3F;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.outro{
+  font-family:sans-serif;
+  text-align: left;
+  padding-top: 30px;
+  padding-bottom: 50px;
 }
 
 .blank{
@@ -439,16 +460,16 @@ body {
 
 .profile{
   display: block;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   max-width: 400px;
   margin: 0 auto;
 }
 
 .inner{
   display: block;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   max-width: 600px;
   margin: 0 auto;
 }
@@ -469,7 +490,8 @@ body {
 
 .event_img{
   display: block;
-  padding-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom: 50px;
   max-width: 600px;
   margin: 0 auto;
 }
@@ -478,6 +500,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .event_small_img{
@@ -489,6 +513,16 @@ body {
   padding: 5px 5px;
 }
 
+
 .event_text{
   font-family:sans-serif;
+  padding: 5px 0px;
+}
+
+.event_link {
+  font-family:sans-serif;
+  font-size: 14px;
+  padding-top: 10px;
+  text-align: center;
+  text-decoration-line: none;
 }

@@ -13,7 +13,7 @@ $(document).ready(function () {
 let nowUrl = window.location.href;
 
 function copyUrl(){
-  	navigator.clipboard.writeText(nowUrl).then(res=>{
-	  alert("주소가 복사되었습니다!");
-	})
+  navigator.clipboard.writeText(nowUrl).then(res=>{
+    alert("주소가 복사되었습니다!");
+  })
 }

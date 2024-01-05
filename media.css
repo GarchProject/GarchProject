@@ -3,9 +3,7 @@
     box-sizing: border-box;
   }
 
-  h4 {
-    max-width: 460px;
-  }
+
 
 
   .list-container {
@@ -103,6 +101,16 @@
     padding-right: 10%;
   }
 
+  .intro{
+    max-width: 460px;
+  }
+
+
+  .outro{
+    font-family:sans-serif;
+    text-align: center;
+    padding-bottom: 50px;
+  }
 
   .link {
     text-align: center;
@@ -119,4 +127,4 @@
   .event_small_img{
     max-width: 400px;
     max-height: 400px;
-    }
+  }
