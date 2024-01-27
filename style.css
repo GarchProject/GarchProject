@@ -136,7 +136,7 @@ body {
 
 .Project-main-container {
   position: relative;
-  padding-top: 90px;
+  padding-top: 80px;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 50px;
@@ -153,6 +153,27 @@ body {
   border-bottom: 1px dotted #262626;
   padding: 0px;
 }
+
+.Project-top-year-container {
+  display: none;
+}
+
+.Project-year-container {
+  display: none;
+}
+
+.Project-container-category {
+  font-family:sans-serif;
+  font-size: 14px;
+  display: flex;
+  padding-right:10px;
+  flex-wrap: nowrap;
+  margin: 0px;
+  width: 10%;
+  min-width: 50px;
+  align-items: center;
+}
+
 
 .Project-container-category {
   font-family:sans-serif;
@@ -245,6 +266,15 @@ body {
   height: 40px;
   border-bottom: 1px dotted #262626;
   padding: 0px;
+  background: #FDFAF6;
+}
+
+.Event-top-year-container {
+  display: none;
+}
+
+.Event-year-container {
+  display: none;
 }
 
 .Event-container-category {

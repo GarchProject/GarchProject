@@ -29,6 +29,32 @@
     height: 35px;
   }
 
+  .Project-top-year-container {
+    display: flex;
+    height: 30px;
+    border-top: 1px dotted #262626;
+    border-bottom: 1px dotted #262626;
+    padding: 0px;
+  }
+
+  .Project-year-container {
+    display: flex;
+    height: 30px;
+    border-bottom: 1px dotted #262626;
+    padding: 0px;
+  }
+
+  .Project-year-container-category {
+    font-family:sans-serif;
+    font-size: 12px;
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0px;
+    width: 100%;
+    min-width: 50px;
+    align-items: center;
+  }
+
   .Project-container-category {
     font-size: 12px;
     padding-right: 0px;
@@ -58,6 +84,33 @@
 
   .Event-container {
     height: 35px;
+  }
+
+  .Event-top-year-container {
+    display: flex;
+    height: 30px;
+    border-top: 1px dotted #262626;
+    border-bottom: 1px dotted #262626;
+    padding: 0px;
+  }
+
+  .Event-year-container {
+    display: flex;
+    height: 30px;
+    border-bottom: 1px dotted #262626;
+    padding: 0px;
+  }
+
+  .Event-year-container-category {
+    font-family:sans-serif;
+    font-size: 12px;
+    display: flex;
+    padding-right:10px;
+    flex-wrap: nowrap;
+    margin: 0px;
+    width: 100%;
+    min-width: 50px;
+    align-items: center;
   }
 
   .Event-container-category {
