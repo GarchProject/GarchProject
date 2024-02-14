@@ -558,3 +558,28 @@ body {
   text-align: center;
   text-decoration-line: none;
 }
+
+summary {
+  padding: 5px 5px;
+  margin-left:0px;
+}
+details > summary {
+  list-style: none;
+}
+details summary::-webkit-details-marker {
+  display:none;
+}
+
+ul{
+    margin-left: 0px;
+    margin-top: 0px;
+    padding:0px;
+}
+
+
+li p {
+  display: inline;
+}
+ul li{
+    list-style:none;
+}
