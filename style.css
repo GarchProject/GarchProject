@@ -560,7 +560,7 @@ body {
 }
 
 summary {
-  padding: 5px 5px;
+  padding: 0px;
   margin-left:0px;
 }
 details > summary {
