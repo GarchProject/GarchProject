@@ -155,11 +155,22 @@ body {
 }
 
 .Project-top-year-container {
-  display: none;
+  display: flex;
+  font-size: 14px;
+  height: 35px;
+  border-top: 1px dotted #262626;
+  border-bottom: 1px dotted #262626;
+  padding: 0px;
+  align-items: center;
 }
 
 .Project-year-container {
-  display: none;
+  display: flex;
+  font-size: 14px;
+  height: 35px;
+  border-bottom: 1px dotted #262626;
+  padding: 0px;
+  align-items: center;
 }
 
 .Project-container-category {
@@ -270,11 +281,22 @@ body {
 }
 
 .Event-top-year-container {
-  display: none;
+  display: flex;
+  font-size: 14px;
+  height: 35px;
+  border-top: 1px dotted #262626;
+  border-bottom: 1px dotted #262626;
+  padding: 0px;
+  align-items: center;
 }
 
 .Event-year-container {
-  display: none;
+  display: flex;
+  font-size: 14px;
+  height: 35px;
+  border-bottom: 1px dotted #262626;
+  padding: 0px;
+  align-items: center;
 }
 
 .Event-container-category {
