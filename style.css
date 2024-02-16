@@ -444,7 +444,9 @@ body {
 }
 
 .contents-title {
-  font-family:sans-serif;
+  font-family: "IBM Plex Sans KR", sans-serif;
+  font-weight: 600;
+  font-style: normal;
   font-size: 28px;
   color: #000000;
   right: 0;
@@ -518,6 +520,13 @@ body {
   padding-bottom: 50px;
   max-width: 400px;
   margin: 0 auto;
+}
+
+.profile_logo{
+  display: block;
+  max-width: 400px;
+  margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 .inner{

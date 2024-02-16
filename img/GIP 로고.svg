@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.85 116.27">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        font-family: IBMPlexSansKR-Light, 'IBM Plex Sans KR';
+        font-size: 20.94px;
+        font-weight: 300;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: .01em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-4" points="84.94 65.46 84.94 .14 116.1 .14 116.1 11.31 96.34 11.31 96.34 54.17 110.17 54.17 110.17 37.69 103.3 37.69 103.3 26.52 121.57 26.52 121.57 65.46 84.94 65.46"/>
+    <polygon class="cls-4" points="142.23 .14 142.23 65.46 130.82 65.46 130.82 0 142.23 .14"/>
+    <path class="cls-4" d="m163.03,37.69v27.76h-11.41V.14h35.86v32.46l-24.45,5.1Zm0-11.17l13.05-2.64v-12.57h-13.05v15.21Z"/>
+  </g>
+  <text class="cls-5" transform="translate(0 100.42)"><tspan x="0" y="0" xml:space="preserve">[  ]</tspan><tspan class="cls-9" x="22.91" y="0">-</tspan><tspan x="30.77" y="0">A</tspan><tspan class="cls-10" x="43.86" y="0">R</tspan><tspan x="56.97" y="0" xml:space="preserve">CH [  ]n</tspan><tspan class="cls-3" x="124.22" y="0">t</tspan><tspan x="131.15" y="0">e</tspan><tspan class="cls-7" x="142.52" y="0">r</tspan><tspan x="150.29" y="0">vi</tspan><tspan class="cls-2" x="165.35" y="0">e</tspan><tspan class="cls-1" x="176.62" y="0" xml:space="preserve">w [  ]</tspan><tspan class="cls-6" x="220.22" y="0">r</tspan><tspan class="cls-8" x="227.63" y="0">oj</tspan><tspan class="cls-11" x="244.24" y="0">c</tspan><tspan x="254.46" y="0">et</tspan></text>
+  <polygon class="cls-4" points="7.47 102.29 7.47 86.61 14.94 86.61 14.94 89.29 10.2 89.29 10.2 99.58 13.52 99.58 13.52 95.62 11.87 95.62 11.87 92.94 16.26 92.94 16.26 102.29 7.47 102.29"/>
+  <polygon class="cls-4" points="102.23 86.63 102.23 102.3 99.49 102.3 99.49 86.59 102.23 86.63"/>
+  <path class="cls-4" d="m207.3,95.62v6.66h-2.74v-15.68h8.61v7.79l-5.87,1.22Zm0-2.68l3.13-.63v-3.02h-3.13v3.65Z"/>
+</svg>
